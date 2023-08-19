@@ -11,7 +11,7 @@ HTML
 !DOCTYPE html: This declaration specifies the document type as HTML5.
 html lang="en": This tag defines the root of the HTML document and specifies the language as English.
 
-2. Document Metadata (inside the <head> section):
+2. Document Metadata (inside the head section):
 
 meta charset="UTF-8": This meta tag sets the character encoding of the document to UTF-8, ensuring proper character display.
 <meta name="viewport" content="width=device-width, initial-scale=1.0">: This meta tag configures the viewport settings for responsive web design.
@@ -19,7 +19,7 @@ meta charset="UTF-8": This meta tag sets the character encoding of the document 
 The link tag links an external stylesheet ("styles.css") for styling.
 
   
-3.Page Content (inside the <body> section):
+3.Page Content (inside the body section):
 
 div class="container": This div tag creates the main container for the content of the web page.
 
