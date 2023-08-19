@@ -49,3 +49,10 @@ CSS
   margin: 0;: This rule sets the margin for all elements to 0.
 padding: 0px;: It sets the padding for all elements to 0 pixels.
 box-sizing: border-box;: This rule ensures that the padding and border of elements are included in their total width and height.
+
+.container selector:
+
+position: relative;: This rule sets the positioning context for elements inside the container.
+width: 100%;: It makes the container take up the full width of its parent element.
+height: 100vh;: This sets the container's height to 100% of the viewport height.
+overflow: hidden;: It hides any content that overflows the container.
