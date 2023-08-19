@@ -44,9 +44,10 @@ CSS
 ![Screenshot 2023-08-15 195015](https://github.com/rupesh0511/shoe_css/assets/69234169/c14d2b1e-6c20-4194-b1b6-3f7b91e7569f)
 ![Screenshot 2023-08-15 195036](https://github.com/rupesh0511/shoe_css/assets/69234169/900e3046-34e5-452a-9db7-b5bebbe9f0ad)
 
-
 * selector:
-  margin: 0;: This rule sets the margin for all elements to 0.
+
+
+margin: 0;: This rule sets the margin for all elements to 0.
 padding: 0px;: It sets the padding for all elements to 0 pixels.
 box-sizing: border-box;: This rule ensures that the padding and border of elements are included in their total width and height.
 
