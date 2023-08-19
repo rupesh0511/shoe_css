@@ -15,22 +15,23 @@ html lang="en": This tag defines the root of the HTML document and specifies the
 
 meta charset="UTF-8": This meta tag sets the character encoding of the document to UTF-8, ensuring proper character display.
 <meta name="viewport" content="width=device-width, initial-scale=1.0">: This meta tag configures the viewport settings for responsive web design.
-<title>Document</title>: The <title> tag sets the title of the web page, which is displayed in the browser's title bar or tab.
-link rel="stylesheet" href="./styles.css"/: This <link> tag links an external stylesheet ("styles.css") for styling.
+<title>Document</title>: This tag sets the title of the web page, which is displayed in the browser's title bar or tab.
+The link tag links an external stylesheet ("styles.css") for styling.
+
   
 3.Page Content (inside the <body> section):
 
-div class="container": This <div> tag creates the main container for the content of the web page.
+div class="container": This div tag creates the main container for the content of the web page.
 
-div class="backcontainer": This <div> tag with the class "backcontainer" seems to be an empty container, possibly for background styling.
+div class="backcontainer": This div tag with the class "backcontainer" seems to be an empty container, possibly for background styling.
 
-div class="subcontainer": This <div> tag with the class "subcontainer" is used to create a sub-container within the main container.
+div class="subcontainer": This div tag with the class "subcontainer" is used to create a sub-container within the main container.
 
-div class="text": This <div> tag with the class "text" appears to be used for containing text content.
+div class="text": This div tag with the class "text" appears to be used for containing text content.
 
  The h1 tag represents the main heading of the content, displaying "Shoe-1."
 
-p class="content".../p: These <p> tags with the class "content" contain paragraphs of text content, which appear to be Lorem Ipsum placeholder text.
+p class="content".../p: These p tags with the class "content" contain paragraphs of text content, which appear to be Lorem Ipsum placeholder text.
 
 div class="image": This tag with the class "image" is used for containing an image.
 
