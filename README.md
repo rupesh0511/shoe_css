@@ -23,11 +23,11 @@ The link tag links an external stylesheet ("styles.css") for styling.
 
 div class="container": This div tag creates the main container for the content of the web page.
 
-div class="backcontainer": This div tag with the class "backcontainer" seems to be an empty container, possibly for background styling.
+div class="backcontainer": This div tag with the class "backcontainer" is an an empty container,for background styling.
 
 div class="subcontainer": This div tag with the class "subcontainer" is used to create a sub-container within the main container.
 
-div class="text": This div tag with the class "text" appears to be used for containing text content.
+div class="text": This div tag with the class "text" is used for containing text content.
 
  The h1 tag represents the main heading of the content, displaying "Shoe-1."
 
