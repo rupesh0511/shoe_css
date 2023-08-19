@@ -54,26 +54,54 @@ box-sizing: border-box;: This rule ensures that the padding and border of elemen
 .container selector:
 
 position: relative;: This rule sets the positioning context for elements inside the container.
+
+
 width: 100%;: It makes the container take up the full width of its parent element.
+
+
 height: 100vh;: This sets the container's height to 100% of the viewport height.
+
+
 overflow: hidden;: It hides any content that overflows the container.
 
 .backcontainer selector:
 
 width: 100%;: It makes this container take up the full width of its parent.
+
+
 height: 100%;: Sets its height to 100% of its parent's height.
+
+
 background: linear-gradient(to right, #B42C2A, #1964BE);: This creates a linear gradient background from red (#B42C2A) to blue (#1964BE).
+
+
 z-index: -1;: This places the element behind other content (negative z-index).
+
+
 position: absolute;: This element is positioned absolutely relative to its nearest positioned ancestor.
+
+
 transform: skewY(10deg);: It skews the element by 10 degrees along the Y-axis.
+
+
 
 .subcontainer selector:
 
 width: 85%;: This sets the width of this container to 85% of its parent.
+
+
 height: 75%;: It sets the height to 75% of its parent's height.
+
+
 margin: auto;: This centers the container horizontally.
+
+
 margin-top: 7.5%;: Adds some top margin for spacing.
+
+
 background: linear-gradient(to right, #8F2585, #D83B5F, #F16C27);: Creates a linear gradient background.
+
+
 box-shadow: 0px 0px 10px black;: Adds a black box shadow.
 
 h1 selector:
@@ -83,13 +111,21 @@ color: aliceblue;: Sets the text color for h1 elements to aliceblue.
 .content selector:
 
 color: aliceblue;: Sets the text color for elements with class "content" to aliceblue.
+
+
 margin-bottom: 4%;: Adds a bottom margin for spacing.
+
+
 margin-top: 4%;: Adds a top margin for spacing.
+
+
 font-size: 18px;: Sets the font size to 18 pixels.
 
 .picture selector:
 
 width: 600px;: Sets the width of elements with class "picture" to 600 pixels.
+
+
 height: 300px;: Sets the height to 300 pixels.
 right: 10%;: Positions the element 10% from the right edge.
 top: 0px;: Positions the element at the top.
