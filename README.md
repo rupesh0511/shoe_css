@@ -28,13 +28,13 @@ div class="subcontainer": This <div> tag with the class "subcontainer" is used t
 
 div class="text": This <div> tag with the class "text" appears to be used for containing text content.
 
-h1Shoe-1</h1: The <h1> tag represents the main heading of the content, displaying "Shoe-1."
+ The h1 tag represents the main heading of the content, displaying "Shoe-1."
 
 p class="content".../p: These <p> tags with the class "content" contain paragraphs of text content, which appear to be Lorem Ipsum placeholder text.
 
-div class="image": This <div> tag with the class "image" is used for containing an image.
+div class="image": This tag with the class "image" is used for containing an image.
 
-img src="..." class="picture"/: The <img> tag displays an image. It uses the "src" attribute to specify the image file's URL and has a class "picture," which may be used for styling or scripting.
+The img tag displays an image. It uses the "src" attribute to specify the image file's URL and has a class "picture," which may be used for styling or scripting.
 
 
 CSS
