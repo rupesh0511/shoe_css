@@ -9,7 +9,7 @@ HTML
 1.Document Structure:
 
 !DOCTYPE html: This declaration specifies the document type as HTML5.
-<html lang="en">: The <html> tag defines the root of the HTML document and specifies the language as English.
+html lang="en": This tag defines the root of the HTML document and specifies the language as English.
 
 2. Document Metadata (inside the <head> section):
 
