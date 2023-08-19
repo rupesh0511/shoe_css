@@ -6,7 +6,7 @@ HTML
 
 ![Screenshot 2023-08-15 195004](https://github.com/rupesh0511/shoe_css/assets/69234169/9444b437-6d0e-4b61-ba1f-ea11f05fa3e9)
 
-<!DOCTYPE html>: This declaration defines the document type and version of HTML being used, which is HTML5 in this case.
+#<!DOCTYPE html>: This declaration defines the document type and version of HTML being used, which is HTML5 in this case.
 
 <html lang="en">: The <html> tag is the root element of an HTML document. The lang attribute specifies the language of the document, which is set to English (en) in this example.
 
