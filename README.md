@@ -6,38 +6,33 @@ HTML
 
 ![Screenshot 2023-08-15 195004](https://github.com/rupesh0511/shoe_css/assets/69234169/9444b437-6d0e-4b61-ba1f-ea11f05fa3e9)
 
-#<!DOCTYPE html>: This declaration defines the document type and version of HTML being used, which is HTML5 in this case.
+Document Structure:
 
-<html lang="en">: The <html> tag is the root element of an HTML document. The lang attribute specifies the language of the document, which is set to English (en) in this example.
+<!DOCTYPE html>: Declares the document type as HTML5.
+<html lang="en">: Defines the root element of the HTML document, specifying the language as English.
+Document Metadata (in the <head> section):
 
-<head>: The <head> section contains meta-information about the document and links to external resources. It's not displayed on the web page but includes crucial elements for SEO, browser rendering, and other metadata.
+<meta charset="UTF-8">: Specifies the character encoding as UTF-8.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Configures the viewport settings for responsive design.
+<title>Document</title>: Sets the title of the web page.
+<link rel="stylesheet" href="./styles.css"/>: Links an external CSS stylesheet for styling.
+Page Content (in the <body> section):
 
-<meta charset="UTF-8">: This meta tag specifies the character encoding of the document, which is set to UTF-8. UTF-8 is a widely used character encoding that supports a wide range of characters from different languages.
+<div class="container">: This is the main container for the page's content.
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: This meta tag is commonly used for responsive web design. It configures the viewport settings to make the web page adapt to the device's screen width and initial zoom level.
+<div class="backcontainer">: This is an empty container that might be used for background styling.
 
-<title>Document</title>: The <title> tag sets the title of the web page, which is displayed in the browser's title bar or tab.
+<div class="subcontainer">: This sub-container holds the primary content of the page.
 
-<link rel="stylesheet" href="./styles.css"/>: This <link> tag is used to link an external stylesheet named "styles.css" to the HTML document. It's used for applying styles to the web page.
+<div class="text">: Contains text content.
 
-<body>: The <body> tag contains the visible content of the web page that is displayed to users.
+<h1>Shoe-1</h1>: Displays the main heading as "Shoe-1."
 
-<div class="container">: This <div> tag creates a container for the main content of the page.
+<p class="content">...</p>: Contains paragraphs of text content (Lorem Ipsum).
 
-<div class="backcontainer"></div>: This <div> tag with the class "backcontainer" appears to be an empty container, possibly for some background styling.
+<div class="image">: Contains an image.
 
-<div class="subcontainer">: This <div> tag with the class "subcontainer" is used to create a sub-container within the main container.
-
-<div class="text">: This <div> tag with the class "text" is likely used for containing text content.
-
-<h1>Shoe-1</h1>: The <h1> tag represents a top-level heading. In this case, it displays the text "Shoe-1" as the main heading of the content.
-
-<p class="content">...</p>: These <p> tags with the class "content" are used for paragraphs of text content. They contain Lorem Ipsum placeholder text.
-
-<div class="image">: This <div> tag with the class "image" is used for containing an image.
-
-<img src="..." class="picture"/>: The <img> tag is used to display an image. It uses the "src" attribute to specify the image file's URL and has a class "picture" for possible styling.
-
+<img src="..." class="picture"/>: Displays an image using the "src" attribute, which links to an external image file.
 CSS
 
 
