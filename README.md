@@ -56,3 +56,12 @@ position: relative;: This rule sets the positioning context for elements inside 
 width: 100%;: It makes the container take up the full width of its parent element.
 height: 100vh;: This sets the container's height to 100% of the viewport height.
 overflow: hidden;: It hides any content that overflows the container.
+
+.backcontainer selector:
+
+width: 100%;: It makes this container take up the full width of its parent.
+height: 100%;: Sets its height to 100% of its parent's height.
+background: linear-gradient(to right, #B42C2A, #1964BE);: This creates a linear gradient background from red (#B42C2A) to blue (#1964BE).
+z-index: -1;: This places the element behind other content (negative z-index).
+position: absolute;: This element is positioned absolutely relative to its nearest positioned ancestor.
+transform: skewY(10deg);: It skews the element by 10 degrees along the Y-axis.
